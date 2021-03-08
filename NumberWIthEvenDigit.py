@@ -12,4 +12,4 @@ class Solution(object):
                 count=count+1
             #if nums[i]>9 and nums[i]<100:
             
-        return count
+        return count    
