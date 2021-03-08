@@ -13,3 +13,5 @@ class Solution(object):
             #if nums[i]>9 and nums[i]<100:
             
         return count    
+#Code has been accepted
+#python is not a good programming language for practice though
